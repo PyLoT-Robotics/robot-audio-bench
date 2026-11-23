@@ -1,0 +1,6 @@
+hri_task_manager:
+  ros__parameters:
+    name_list: [sophie, kevin, julia, gabrielle, emma, robin, noah, sara, john, harrie, laura, liam, peter, lucas, susan, william]
+    drink_list: [espresso, pepsi, milk, tea, coffee, orange juice, strawberry juice, lemon juice, apple juice]
+    name_prompt: ""
+    drink_prompt: ""
