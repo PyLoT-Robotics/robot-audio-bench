@@ -3,7 +3,7 @@
 [English](../README.md) · 日本語
 
 ロボットのマイクと音声認識を、話者の角度・距離・雑音条件ごとに評価するPython CLIです。
-`pylot_robocup2025` の Hear-and-Face ベンチから独立させたprivateリポジトリです。
+`pylot_robocup2025` の Hear-and-Face ベンチから独立させたOSSリポジトリです。
 ROS、PyLoTのワークスペース、GPU、APIキーは基本機能に不要です。
 
 ## インストールとクイックスタート

@@ -4,7 +4,7 @@ English · [日本語](docs/README.ja.md)
 
 A Python CLI for evaluating robot microphones and speech recognition across
 speaker angles, distances and noise conditions. Extracted from the Hear-and-Face
-benchmark in `pylot_robocup2025`; this repository is currently private.
+benchmark in `pylot_robocup2025`; this repository is open source.
 The core tools require no ROS installation, PyLoT workspace, GPU or API key.
 
 ## Install and quick start
